@@ -1,0 +1,17 @@
+# Ignora tudo por padrao
+*
+
+# Libera o que vai para o repositorio
+!.gitignore
+!README.md
+
+# Libera pastas de trabalhos (T1, T2, T3, ...)
+!T*/
+
+# Dentro de cada trabalho, ignora tudo exceto README.md, notebooks e a pasta imagens
+T*/*
+!T*/README.md
+!T*/*.ipynb
+!T*/*.graphml
+!T*/imagens/
+!T*/imagens/**
