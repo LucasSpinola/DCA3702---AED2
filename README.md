@@ -1,12 +1,12 @@
-# Estrutura de Dados II — DCA3702 (UFRN)
+# Algoritmos e Estrutura de Dados II - UFRN (DCA3702)
 
-Repositório dos trabalhos práticos da disciplina **DCA3702 — Estrutura de Dados II**, ministrada na Universidade Federal do Rio Grande do Norte (UFRN).
+Repositório dos trabalhos práticos da disciplina **DCA3702 - Algoritmos e Estrutura de Dados II**, ministrada na Universidade Federal do Rio Grande do Norte (UFRN).
 
 ## Conteúdo
 
 | Trabalho | Tema | Pasta |
 | --- | --- | --- |
-| Trabalho 1 | *a adicionar* | — |
+| **Trabalho 1** | Rede de relacionamentos nas notícias da UFRN (NLP + grafos) | [`T1/`](T1/) |
 | **Trabalho 2** | Análise estrutural de redes urbanas com OSMnx, NetworkX e Gephi (rede viária de Ponta Negra/Natal-RN) | [`T2/`](T2/) |
 | Trabalho 3 | *a adicionar* | — |
 

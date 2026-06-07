@@ -13,5 +13,24 @@ T*/*
 !T*/README.md
 !T*/*.ipynb
 !T*/*.graphml
+!T*/requirements.txt
 !T*/imagens/
 !T*/imagens/**
+!T*/src/
+!T*/src/**
+!T*/notebooks/
+!T*/notebooks/**
+!T*/results/
+!T*/results/**
+
+# Dentro de results/, descartar datasets brutos eventuais
+T*/results/*.csv.zip
+T*/results/*.tmp
+
+# Dentro de data/, ignorar tudo (datasets brutos sao grandes)
+T*/data/
+
+# Caches Python
+T*/src/__pycache__/
+T*/notebooks/.ipynb_checkpoints/
+T*/**/__pycache__/

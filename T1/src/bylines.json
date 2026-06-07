@@ -1,0 +1,15 @@
+{
+  "_descricao": "Nomes de jornalistas e assinaturas que aparecem em padroes de byline ('Reportagem:', 'Texto:', etc.) nas noticias do portal UFRN. Esses nomes sao filtrados pos-NER para nao inflar centralidades como 'pessoas' institucionais. Lista construida observando o top de PageRank na primeira execucao do pipeline.",
+  "bylines": [
+    "Beatriz de Azevedo",
+    "Hellen Almeida",
+    "Rebeca Ribeiro",
+    "Daniel Diniz",
+    "Felipe Tavares",
+    "Camila Lima",
+    "Bruno Damasceno",
+    "Erika Yumi",
+    "Alex Sandro Tomaz",
+    "Renata Moura"
+  ]
+}

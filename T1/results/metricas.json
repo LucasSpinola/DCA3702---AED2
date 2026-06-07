@@ -1,0 +1,13 @@
+{
+  "num_nos": 1067,
+  "num_arestas_simples": 8891,
+  "num_arestas_multidigraph": 9610,
+  "densidade": 0.01563359949077827,
+  "componentes_conectados": 1,
+  "tamanho_maior_componente": 1067,
+  "grau_medio": 16.665417057169634,
+  "coeficiente_agrupamento_medio": 0.9419768525082233,
+  "transitividade": 0.17270118031786827,
+  "diametro_maior_componente": 4,
+  "comprimento_medio_caminhos": 2.005231127936685
+}
