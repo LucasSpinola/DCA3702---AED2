@@ -2,6 +2,9 @@
 
 Repositório dos trabalhos práticos da disciplina **DCA3702 - Algoritmos e Estrutura de Dados II**, ministrada na Universidade Federal do Rio Grande do Norte (UFRN).
 
+- **Professor:** Ivanovitch Medeiros Dantas da Silva
+- **Material da disciplina (aulas):** https://github.com/ivanovitchm/datastructure
+
 ## Conteúdo
 
 | Trabalho | Tema | Pasta |
