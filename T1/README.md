@@ -14,6 +14,11 @@ Unidade 01, projeto com NLP, NER, Web Scraping e Teoria dos Grafos.
 - Parte 1: https://www.loom.com/share/ffb533abf92640238afa3626bb410123
 - Parte 2: https://www.loom.com/share/bd1e75133e1c4368b2f5d4e7bfbc9162
 
+## 2.1. Dashboard online (GitHub Pages)
+
+- Dashboard consolidado: https://lucasspinola.github.io/DCA3702---AED2/T1/results/index.html
+- Grafo interativo (PyVis): https://lucasspinola.github.io/DCA3702---AED2/T1/results/grafo_interativo.html
+
 ---
 
 ## 3. Problema abordado
@@ -158,7 +163,7 @@ Para conferir se a rede é mesmo small-world (e não apenas pequena), comparei c
 - [imagens/05_grafo_estatico.png](imagens/05_grafo_estatico.png), subgrafo dos top 60 por PageRank.
 - [imagens/06_real_vs_aleatorio.png](imagens/06_real_vs_aleatorio.png), comparação com Erdős-Rényi e Watts-Strogatz.
 - [results/grafo_interativo.html](results/grafo_interativo.html), visualização interativa (PyVis).
-- [results/index.html](results/index.html), dashboard consolidado.
+- [results/index.html](results/index.html), dashboard consolidado (também acessível em https://lucasspinola.github.io/DCA3702---AED2/T1/results/index.html).
 - [results/grafo.gexf](results/grafo.gexf), formato nativo do Gephi.
 - [results/grafo.graphml](results/grafo.graphml), formato padrão.
 

@@ -4,6 +4,8 @@ Repositório dos trabalhos práticos da disciplina **DCA3702 - Algoritmos e Estr
 
 - **Professor:** Ivanovitch Medeiros Dantas da Silva
 - **Material da disciplina (aulas):** https://github.com/ivanovitchm/datastructure
+- **Dashboard online do T1:** https://lucasspinola.github.io/DCA3702---AED2/T1/results/index.html
+- **Grafo interativo do T1:** https://lucasspinola.github.io/DCA3702---AED2/T1/results/grafo_interativo.html
 
 ## Conteúdo
 
